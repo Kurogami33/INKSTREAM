@@ -1,8 +1,8 @@
 {
   "brand": {
-    "appName": "XUPER HYDRA",
-    "shortName": "XUPER",
-    "tagline": "Streaming TV",
+    "appName": "INKASTREAM",
+    "shortName": "INKASTREAM",
+    "tagline": "INKASTREAM",
     "logoAsset": "ic_launcher",
     "packageName": "com.xuper.netxxus",
     "versionSuffix": "-custom"
